@@ -1,0 +1,9 @@
+.MoviesList  {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.MoviesList__thumbnail {
+  max-width: 200px;
+}
